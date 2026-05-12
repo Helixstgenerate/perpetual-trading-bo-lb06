@@ -1,4 +1,4 @@
-# 
+# ultimate perpetual trading bot Plugin | auto-leverage + stop-loss offers the most advanced perpetual trading bot, with auto-leverage and stop-loss. Ideal for professional traders
 
 
 
